@@ -3,3 +3,6 @@ cd E:\Project\2025_Project\GymManagement
 javac -d bin -cp "lib/*;src" src/main/GymManagementMain.java src/model/*.java src/view/*.java src/controller/*.java src/dao/*.java
 
 java -cp "bin;lib/*" main.GymManagementMain
+
+
+Hellos
